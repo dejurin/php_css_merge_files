@@ -2,8 +2,6 @@
 
 $current_path = getcwd();
 
-echo $current_path;
-
 $css = array(
     $current_path.'/stylesheet.css',
 );
